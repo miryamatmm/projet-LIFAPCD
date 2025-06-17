@@ -25,6 +25,10 @@ Ajoutons que la seule règle d'Amour Salé est de s'amuser et de profiter de l'e
 
 Sur Windows, il sera nécessaire d'activer WSL (Windows Subsystem for Linux) et installer la distribution Linux de votre choix. Ensuite les commandes seront les memes que sur Linux.
 
+## Auteures
+
+EL OUARRAD Mariam, YAGBASAN Aleyna, ATAMNA Miryam
+
 + Installer le compilateur gcc :
  	- sur macOS: taper dans le terminal la commande suivante : $> brew install gcc
  	- sur Linux/Windows: taper dans le terminal la commande suivante: $> sudo apt install gcc
